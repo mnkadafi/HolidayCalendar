@@ -28,7 +28,7 @@ class HolidaysTableViewController: UITableViewController {
         
     }
 
-    // MARK: - Table view data source
+    // MARK: - Table view data sources
 
     override func numberOfSections(in tableView: UITableView) -> Int {
         
